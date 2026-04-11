@@ -1,0 +1,218 @@
+﻿VEKTOR SLIPSTREAM — COMMERCIAL SOFTWARE LICENCE
+
+Copyright (c) 2026 VEKTOR Memory (vektormemory.com)
+All rights reserved worldwide.
+
+================================================================================
+LICENCE GRANT
+================================================================================
+
+This software is licensed, not sold. Purchase of a VEKTOR Slipstream licence
+grants you a non-exclusive, non-transferable, revocable right to use this
+software solely in accordance with the terms set out below.
+
+================================================================================
+PERMITTED USE
+================================================================================
+
+- Use in personal, commercial, and client projects
+- Embed in products you sell or SaaS platforms
+- Deploy on up to 3 machines per licence key
+- Modify for your own internal use only (modifications are NOT redistributable)
+
+================================================================================
+RESTRICTIONS — STRICTLY PROHIBITED
+================================================================================
+
+The following are expressly prohibited without prior written consent from
+VEKTOR Memory:
+
+- Redistribute, resell, sublicense, rent, or lease this software or any
+  portion thereof
+- Remove, disable, circumvent, or modify any licence enforcement mechanisms,
+  licence validation routines, or copyright notices
+- Share, publish, or transfer your licence key to any third party
+- Reverse engineer, decompile, disassemble, or attempt to derive the source
+  code of any obfuscated or compiled components, except where expressly
+  permitted by applicable law
+- Use this software to build products or services that compete directly with
+  VEKTOR Memory or vektormemory.com
+- Create derivative works for commercial distribution
+- Use this software after licence revocation or expiry
+
+================================================================================
+LICENCE ENFORCEMENT
+================================================================================
+
+This software requires a valid licence key issued by VEKTOR Memory via
+Polar (polar.sh). Licence keys are validated at runtime and cached locally.
+Each key may be activated on up to 3 machines. VEKTOR Memory reserves the
+right to revoke any licence key at any time for violation of these terms.
+
+================================================================================
+SOVEREIGNTY GUARANTEE
+================================================================================
+
+Core SDK functionality is available as a one-time purchase permanently.
+No mandatory subscription will ever be required for the memory core, AUDN loop,
+REM cycle, or integration adapters included in this package at time of purchase.
+
+================================================================================
+INTELLECTUAL PROPERTY
+================================================================================
+
+This software and all associated documentation, source code, object code,
+algorithms, data structures, and design elements are the exclusive intellectual
+property of VEKTOR Memory and are protected under copyright, trade secret, and
+other applicable intellectual property laws worldwide, including but not limited
+to the laws and treaties listed below.
+
+Unauthorised use, copying, reproduction, modification, distribution, or
+exploitation of this software, in whole or in part, constitutes infringement
+and will be prosecuted to the fullest extent permitted by law.
+
+================================================================================
+INTERNATIONAL COPYRIGHT & LEGAL FRAMEWORK
+================================================================================
+
+This software is protected under the following international laws and treaties:
+
+INTERNATIONAL TREATIES
+  - Berne Convention for the Protection of Literary and Artistic Works
+    (as adopted by 181 member states)
+  - WIPO Copyright Treaty (WCT), 1996
+  - WIPO Performances and Phonograms Treaty (WPPT), 1996
+  - Agreement on Trade-Related Aspects of Intellectual Property Rights
+    (TRIPS Agreement), administered by the WTO
+  - Universal Copyright Convention (UCC)
+
+AUSTRALIA (Primary Jurisdiction)
+  - Copyright Act 1968 (Cth)
+  - Copyright Amendment (Digital Agenda) Act 2000 (Cth)
+  - Copyright Amendment Act 2006 (Cth)
+  - Competition and Consumer Act 2010 (Cth)
+  - Criminal Code Act 1995 (Cth) — computer offences, fraud
+  Governing jurisdiction: Queensland, Australia
+
+UNITED STATES
+  - Copyright Act of 1976 (17 U.S.C. § 101 et seq.)
+  - Digital Millennium Copyright Act (DMCA), 17 U.S.C. § 1201 et seq.
+  - Computer Fraud and Abuse Act (CFAA), 18 U.S.C. § 1030
+  - Economic Espionage Act 1996, 18 U.S.C. § 1831 et seq.
+  - Defend Trade Secrets Act (DTSA) 2016, 18 U.S.C. § 1836 et seq.
+  - Lanham Act (trademark), 15 U.S.C. § 1051 et seq.
+
+EUROPEAN UNION & UNITED KINGDOM
+  - Directive 2009/24/EC on the legal protection of computer programs
+  - Directive 2001/29/EC (EU Copyright Directive)
+  - Directive (EU) 2019/790 on copyright in the Digital Single Market
+  - EU Trade Secrets Directive 2016/943
+  - GDPR — Regulation (EU) 2016/679 (where applicable)
+  - UK Copyright, Designs and Patents Act 1988 (CDPA)
+  - UK Computer Misuse Act 1990
+  - UK Trade Secrets (Enforcement, etc.) Regulations 2018
+
+GERMANY
+  - Urheberrechtsgesetz (UrhG) — Copyright Act
+  - Gesetz gegen den unlauteren Wettbewerb (UWG) — Unfair Competition Act
+  - Strafgesetzbuch (StGB) §§ 202a-202d — computer and data offences
+
+FRANCE
+  - Code de la propriété intellectuelle (CPI)
+  - Loi pour la confiance dans l'économie numérique (LCEN)
+
+CANADA
+  - Copyright Act, R.S.C. 1985, c. C-42
+  - Bill C-11 — Copyright Modernization Act
+
+JAPAN
+  - Copyright Act (著作権法), Act No. 48 of 1970 (as amended)
+  - Unfair Competition Prevention Act (不正競争防止法)
+  - Act on Prohibition of Unauthorized Computer Access
+
+CHINA (PRC)
+  - Copyright Law of the People's Republic of China (2020 revision)
+  - Regulations on the Protection of the Right to Network Dissemination
+    of Information
+  - Anti-Unfair Competition Law of the PRC
+  - Criminal Law of the PRC — Articles 217, 285, 286
+
+SOUTH KOREA
+  - Copyright Act (저작권법), Act No. 432
+  - Act on Promotion of Information and Communications Network Utilization
+    and Information Protection
+
+INDIA
+  - Copyright Act 1957 (as amended by Copyright Amendment Act 2012)
+  - Information Technology Act 2000 (as amended 2008)
+  - Trade Secrets (no specific statute — protected under contract and
+    common law principles)
+
+SINGAPORE
+  - Copyright Act 2021 (No. 22 of 2021)
+  - Computer Misuse Act (Cap. 50A)
+
+NEW ZEALAND
+  - Copyright Act 1994
+  - Copyright (New Technologies) Amendment Act 2008
+
+================================================================================
+ENFORCEMENT & REMEDIES
+================================================================================
+
+Unauthorised use, copying, redistribution, reverse engineering, or circumvention
+of licence enforcement mechanisms constitutes:
+
+  1. Copyright infringement — subject to civil damages including statutory
+     damages, actual damages, and disgorgement of profits
+  2. Breach of contract — subject to injunctive relief and damages
+  3. Potential criminal liability under applicable computer fraud, trade secret,
+     and copyright laws in relevant jurisdictions
+
+VEKTOR Memory reserves all rights and remedies available under applicable law,
+including but not limited to:
+
+  - Immediate licence revocation without refund
+  - Civil action for damages and injunctive relief
+  - DMCA takedown notices (and equivalent international notices)
+  - Referral to npm security, GitHub Trust & Safety, and relevant platform
+    abuse teams
+  - Reporting to relevant law enforcement agencies
+  - Recovery of legal costs and attorneys' fees where permitted by law
+
+VEKTOR Memory actively monitors for unauthorised distribution and will pursue
+infringement without notice where evidence is identified.
+
+================================================================================
+DISCLAIMER OF WARRANTIES
+================================================================================
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, VEKTOR MEMORY
+DISCLAIMS ALL WARRANTIES INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL VEKTOR MEMORY BE LIABLE FOR
+ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM USE
+OF THIS SOFTWARE.
+
+================================================================================
+GOVERNING LAW & DISPUTE RESOLUTION
+================================================================================
+
+This licence is governed by the laws of Queensland, Australia, without regard
+to conflict of law principles. Any dispute arising from this licence shall be
+subject to the exclusive jurisdiction of the courts of Queensland, Australia.
+
+Where enforcement is sought in another jurisdiction, the laws of that
+jurisdiction shall apply to the extent necessary to give effect to the
+protections afforded by this licence and applicable international treaties.
+
+================================================================================
+CONTACT
+================================================================================
+
+Licence purchases : https://vektormemory.com/product#pricing
+Support           : hello@vektormemory.com
+Documentation     : https://vektormemory.com/docs
+Legal / violations: hello@vektormemory.com (subject: LEGAL)
+
+================================================================================
