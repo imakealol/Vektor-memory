@@ -1,3 +1,4 @@
+<img width="1864" height="579" alt="banner 1" src="https://github.com/user-attachments/assets/31026638-7d0f-40eb-942b-ad401e69c0cb" />
 
 # vektor-slipstream
 
