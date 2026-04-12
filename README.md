@@ -47,7 +47,7 @@ const delta = await memory.delta('project decisions', 7);
 const brief = await memory.briefing();
 ```
 <img width="1919" height="942" alt="Vektor Health" src="https://github.com/user-attachments/assets/cf195a81-1f9a-4151-80d1-e7611877d03f" />
-<img width="1919" height="941" alt="Vektor Config" src="https://github.com/user-attachments/assets/faa3ccb2-844e-45c2-821e-78ce2177a397" />
+
 ---
 
 ## CLI Chat — Persistent Memory Terminal
@@ -250,7 +250,7 @@ Add to `.claude/settings.json` in your project:
 ```
 
 All 28 tools are available in Claude Code via this config.
-
+<img width="1919" height="941" alt="Vektor Config" src="https://github.com/user-attachments/assets/faa3ccb2-844e-45c2-821e-78ce2177a397" />
 ---
 
 ## What's Included
