@@ -10,8 +10,7 @@ Hardware-accelerated persistent memory for AI agents. Local-first. No cloud. One
 <img width="1864" height="579" alt="banner 1" src="https://github.com/user-attachments/assets/31026638-7d0f-40eb-942b-ad401e69c0cb" />
 
 <img width="1918" height="944" alt="Vektor Graph" src="https://github.com/user-attachments/assets/9b27992d-9d20-4ff3-b2ba-2e228a248f8b" />
-<img width="1919" height="942" alt="Vektor Health" src="https://github.com/user-attachments/assets/cf195a81-1f9a-4151-80d1-e7611877d03f" />
-<img width="1919" height="941" alt="Vektor Config" src="https://github.com/user-attachments/assets/faa3ccb2-844e-45c2-821e-78ce2177a397" />
+
 
 
 ## Install
@@ -47,7 +46,8 @@ const delta = await memory.delta('project decisions', 7);
 // Morning briefing
 const brief = await memory.briefing();
 ```
-
+<img width="1919" height="942" alt="Vektor Health" src="https://github.com/user-attachments/assets/cf195a81-1f9a-4151-80d1-e7611877d03f" />
+<img width="1919" height="941" alt="Vektor Config" src="https://github.com/user-attachments/assets/faa3ccb2-844e-45c2-821e-78ce2177a397" />
 ---
 
 ## CLI Chat — Persistent Memory Terminal
