@@ -187,7 +187,7 @@ The same task with a monolithic system prompt and history reconstruction: 15,000
 | First run | ~2 min (downloads ~25MB model once) |
 | Subsequent boots | <100ms |
 
-**LoCoMo benchmark results (conv 0, 154 valid questions):**
+**LoCoMo benchmark results
 
 | Category | Accuracy |
 |---|---|
