@@ -22,14 +22,6 @@
 
 ## VEKTOR fixes the architecture. Not the prompt.
 
-Open any AI developer forum right now. Reddit, Discord, the Facebook groups full of people who bought a course six months ago. Two posts rotate in an endless loop.
-
-The first: *"My agent ran overnight and I woke up to a $300 API bill. It was just supposed to summarise some emails."* Or: *"My cron job worked for three days then started repeating work it already completed."* Or: *"I built a full automation pipeline and now I spend more time fixing it than I saved building it."*
-
-The second: *"Here is my proven system prompt framework that prevents token waste."* Or: *"The secret to reliable agents is structuring your instructions this way."*
-
-The uncomfortable truth nobody says: **the second group's advice is what caused the first group's problem.**
-
 The problems are architectural, not instructional. You cannot prompt your way out of a stateless architecture.
 
 ```
