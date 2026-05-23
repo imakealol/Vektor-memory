@@ -461,28 +461,58 @@ Built on peer-reviewed research:
 
 ---
 
-## What's New in the Change log:
-
-v1.5.9 
-
-Adds infrastructure stability: PM2 environment variable handling fixed for consistent downloads, better-sqlite3 now bundled with Windows binary (no rebuild required), and sqlite-vec upgraded to v0.1.9 with ANN recall replacing full cosine scans for large graphs (60% latency reduction on p95). Two new MCP tools shipped — vektor_status (lightweight health checks) and vektor_related (memory graph traversal) — alongside bug fixes for Percept topic matching, the vektor rem CLI (was calling removed dream() method), and GUI API proxy routes for non-default ports.
-
-v1.5.8 
-
-expanded integrations from 9 to 21 documented providers (LiteLLM, LM Studio, NVIDIA NIM, MiniMax, DeepSeek, xAI/Grok, Together AI, Cohere, Perplexity), added the Percept Chat Layer (morning handover, progressive idea surfacing, step tracking, web signal alerts), introduced the Percept Inbox Daemon (auto-processes .txt/.md/.json files into MAGMA memory), and fixed critical sovereign-layer bugs where override was blocking legitimate writes and importance options were being silently dropped.
+## What's New in the Changelog:
 
 
-v1.5.0
+**v1.5.9** · 21 May 2026
+- PM2 environment variable handling fixed for consistent download versioning
+- `better-sqlite3` bundled with Windows binary (no rebuild required on install)
+- `sqlite-vec` upgraded to v0.1.9 with ANN recall (60% p95 latency reduction on large graphs)
+- New MCP tools: `vektor_status` (health checks), `vektor_related` (memory graph traversal)
+- Bug fixes: Percept topic matching threshold, `vektor rem` CLI (was calling removed `dream()` method), GUI API proxy routes for non-default ports
 
-- Retrieval pipeline rebuilt from scratch
-- bge-small-en-v1.5 bi-encoder + ms-marco cross-encoder reranker (spec-decode architecture)
-- BM25 + Porter-stemmed BM25 + named entity injection, fused via RRF
-- MAGMA graph layer -- co-occurrence and temporal edges between entities in SQLite
-- Persistent entity index (`vektor_entities`) for guaranteed named-entity recall
-- Foresight extraction -- future-tense statements stored for temporal queries
-- Question type classifier -- routes single-hop vs multi-hop to optimal retrieval path
-- ADD-only contradiction detection -- conflicting facts survive with timestamps
-- Agentic sufficiency check -- reformulates query if key entities missing from top results
+**v1.5.8** · 13 May 2026
+- Expanded integrations to 21 documented providers: LiteLLM, LM Studio, NVIDIA NIM, MiniMax, DeepSeek, xAI/Grok, Together AI, Cohere, Perplexity (and 12 others)
+- Percept Chat Layer added: morning handover, progressive idea surfacing, step tracking, web signal alerts
+- Percept Inbox Daemon: auto-processes `.txt/.md/.json` files into MAGMA memory without user action
+- Bug fixes: sovereign-layer blocking legitimate writes (removed `override` from risk tokens), `importance` options being silently dropped on store calls
+
+**v1.5.0** · 24 April 2026
+- Memory graph exposure: `vektor_related` traverses Zettelkasten links and MAGMA co-occurrence edges
+- Auto-briefing on first recall: compact digest of recent stores, open decisions, priorities inline
+- SSH deployment tools (CLOAK): `cloak_ssh_exec`, `cloak_ssh_plan`, `cloak_ssh_approve`, `cloak_ssh_rollback`
+- DXT extension: single-file Claude Desktop drag-and-drop install, no manual JSON config
+
+**v1.4.0** · 14 April 2026
+- Intelligence modules: Axon (associative recall), Cerebellum (procedural memory), Cortex (metacognitive monitor), AUDN audit log
+- Namespace isolation: full multi-namespace support with bulk rename/merge/export/delete operations
+- Boot order determinism: `boot-patch.js` applies migrations, warms embeddings, validates schema before first tool call
+
+**v1.3.7** · 5 April 2026
+- Memory management: pin/forget operations, detailed memory inspector, on-demand briefing engine, cross-device export/import
+- CLOAK behaviour patterns: self-improving pattern store with Bronze/Silver/Gold tier promotion, auto-recorder snippet
+- Full TypeScript types coverage for all public APIs
+- 13 security fixes across schema guards, aggregation wrapping, bulk deletes, export checksums
+
+**v1.2.0** · 24 March 2026
+- Hybrid recall: BM25 keyword search + vector similarity fused via Reciprocal Rank Fusion (RRF)
+- Session ingestion: auto-extract facts and decisions from conversation transcripts with `anticipated_queries`
+- Confidence scoring, contradiction detection, near-duplicate deduplication
+- Memory versioning: `supersedes_id` for atomic fact updates with full revision chains
+
+**v1.1.0** · 11 March 2026
+- Namespace isolation: separate memory silos per agent/project with cross-namespace opt-in lookup
+- Knowledge graph server: interactive force-directed visualisation of memory as nodes + Zettelkasten edges
+- Morning briefing scheduler: cron-style generation with sections for recent, decisions, reminders, conflicts
+- Sleep consolidation: offline re-embedding, TTL pruning, BM25 index rebuild during idle periods
+- Zettelkasten self-organisation: LLM-driven tagging, importance weights, link suggestions
+
+**v1.0.0** · 27 February 2026
+- Initial release: persistent local memory for AI agents via SQLite + `sqlite-vec`
+- MCP server: `vektor_store`, `vektor_recall`, `vektor_delta`, `tokens_saved` tools
+- CLI/TUI: setup, doctor, recall, store, export, import commands with interactive REPL
+- Portable JSON export + in-place schema migrations
+- Licence enforcement via ByteNode, zero telemetry
 
 ---
 
