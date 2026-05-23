@@ -461,10 +461,20 @@ Built on peer-reviewed research:
 
 ---
 
-## What's New in v1.5.0
+## What's New in the Change log:
 
-Retrieval pipeline rebuilt from scratch:
+v1.5.9 
 
+Adds infrastructure stability: PM2 environment variable handling fixed for consistent downloads, better-sqlite3 now bundled with Windows binary (no rebuild required), and sqlite-vec upgraded to v0.1.9 with ANN recall replacing full cosine scans for large graphs (60% latency reduction on p95). Two new MCP tools shipped — vektor_status (lightweight health checks) and vektor_related (memory graph traversal) — alongside bug fixes for Percept topic matching, the vektor rem CLI (was calling removed dream() method), and GUI API proxy routes for non-default ports.
+
+v1.5.8 
+
+expanded integrations from 9 to 21 documented providers (LiteLLM, LM Studio, NVIDIA NIM, MiniMax, DeepSeek, xAI/Grok, Together AI, Cohere, Perplexity), added the Percept Chat Layer (morning handover, progressive idea surfacing, step tracking, web signal alerts), introduced the Percept Inbox Daemon (auto-processes .txt/.md/.json files into MAGMA memory), and fixed critical sovereign-layer bugs where override was blocking legitimate writes and importance options were being silently dropped.
+
+
+v1.5.0
+
+- Retrieval pipeline rebuilt from scratch
 - bge-small-en-v1.5 bi-encoder + ms-marco cross-encoder reranker (spec-decode architecture)
 - BM25 + Porter-stemmed BM25 + named entity injection, fused via RRF
 - MAGMA graph layer -- co-occurrence and temporal edges between entities in SQLite
