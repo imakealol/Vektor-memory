@@ -2,7 +2,7 @@
 
 # VEKTOR MEMORY - Slipstream
 
-### Persistent vector memory for AI agents. Local-first. No cloud. No amnesia.
+### Vector memory for agentic AI. Local-first. Private. Soveriegn.
 
 [![npm version](https://img.shields.io/npm/v/vektor-slipstream?style=flat-square&color=0F6E56&label=npm)](https://www.npmjs.com/package/vektor-slipstream)
 [![npm downloads](https://img.shields.io/npm/dw/vektor-slipstream?style=flat-square&color=185FA5&label=downloads)](https://www.npmjs.com/package/vektor-slipstream)
