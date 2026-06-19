@@ -77,7 +77,7 @@ Add more guardrails   ──►  Longer prompts                   ──►  Mor
 
 ```bash
 npm install -g vektor-slipstream
-npx vektor setup
+vektor setup
 ```
 
 Or drag `vektor-slipstream.dxt` directly into Claude Desktop. All 44 tools register automatically. No JSON editing. No path configuration.
