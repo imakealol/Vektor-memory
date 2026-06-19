@@ -255,7 +255,7 @@ Download: [vektormemory.com/docs/dxt](https://vektormemory.com/docs/dxt)
 
 ---
 
-## MCP Tools -- All 44
+## MCP Tools -- 50+ 
 
 ### Memory
 
@@ -403,8 +403,8 @@ Add to `.claude/settings.json` in your project:
 
 ### Integrations
 
-- **Claude Desktop** -- DXT extension, 44 tools, auto-memory on every session
-- **Claude Code** -- MCP server, all 44 tools
+- **Claude Desktop** -- DXT extension, 50+ tools, auto-memory on every session
+- **Claude Code** -- MCP server, all 50+ tools
 - **CLI** -- `chat`, `remember`, `ask`, `agent` commands
 - **LangChain** -- v1 + v2 adapter included
 - **OpenAI Agents SDK** -- drop-in integration
