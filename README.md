@@ -173,6 +173,7 @@ The same task with a monolithic system prompt and history reconstruction: 15,000
 | Recall latency | sub-1ms (local SQLite + ONNX) |
 | Embedding cost | $0 -- fully local ONNX |
 | Embedding latency | ~10ms GPU / ~25ms CPU |
+| Longmemeval benchmark | 79% accuracy |
 | LoCoMo benchmark | 66.9% adjusted judge accuracy |
 | Min tokens for full recall | 250 |
 | Max tokens regardless of DB size | 4,000 |
