@@ -95,7 +95,7 @@ const memory = await createMemory({
 // Store a memory
 await memory.remember('User prefers TypeScript. Deployed to prod on Friday.');
 
-// Recall by semantic similarity -- sub-1ms, fully local
+// Recall by semantic similarity -- sub-8ms, fully local
 const results = await memory.recall('deployment preferences', 5);
 // → [{ content, score, id, timestamp }]
 
@@ -168,7 +168,7 @@ The same task with a monolithic system prompt and history reconstruction: 15,000
 
 | Metric | Value |
 |---|---|
-| Recall latency | sub-1ms (local SQLite + ONNX) |
+| Recall latency | sub-8ms (local SQLite + ONNX) |
 | Embedding cost | $0 -- fully local ONNX |
 | Embedding latency | ~10ms GPU / ~25ms CPU |
 | Longmemeval benchmark | 79% accuracy |
@@ -247,7 +247,7 @@ Once installed, Claude automatically:
 - Stores facts and decisions during conversation
 - Summarises and consolidates at session end
 
-All 44 tools available. No configuration beyond your licence key.
+All 50+ tools available. No configuration beyond your licence key.
 
 Download: [vektormemory.com/docs/dxt](https://vektormemory.com/docs/dxt)
 
@@ -385,7 +385,7 @@ Add to `.claude/settings.json` in your project:
 - Foresight extraction -- future-tense statements stored with temporal metadata
 - ADD-only contradiction detection -- full history preserved, no silent overwrites
 - REM dream cycle -- up to 50:1 memory compression
-- Sub-1ms recall -- local SQLite, no network required
+- Sub-8ms recall -- local SQLite, no network required
 - Local ONNX embeddings -- $0 embedding cost, no API key required
 
 ### Intelligence Layer (runs automatically, no config)
