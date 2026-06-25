@@ -44,7 +44,7 @@ Add more guardrails   ──►  Longer prompts                   ──►  Mor
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   DXT       drag-and-drop install · 50+ tools registered     │
+│   DXT       drag-and-drop install · 50+ tools registered    │
 │             automatically · no JSON editing                 |  
 │                                                             │
 │   MCP       stateless on-demand tool invocation             │
